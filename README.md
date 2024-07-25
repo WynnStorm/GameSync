@@ -1,7 +1,7 @@
  Features
 - Reads games from a specified installation directory.
 - Generates unique AppIDs for non-Steam games.
-- Fetches grid, hero,headers,and logo images from SteamGridDB.
+- Fetches grid, hero, headers, and logo images from SteamGridDB.
 - Adds new games to Steam shortcuts.
 - Removes shortcuts for games that are no longer installed.
 - finds largest .exe in game folder and adds that as the game executable. You will need to check if the correct .exe has been chosen as I'm not sure how else to do this which isn't complex.
