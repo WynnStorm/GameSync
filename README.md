@@ -3,10 +3,10 @@ This script automates the process of updating non-Steam games to your shortcuts 
 Prerequisites
 
 Before running the script, ensure you have the following Python libraries installed:
-
-1.requests
-2.vdf
-
+```
+requests
+vdf
+```
 You can install these libraries using pip:
 ```
 pip install requests vdf
