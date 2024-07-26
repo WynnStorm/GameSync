@@ -35,7 +35,9 @@ Run the script: Simply execute the script using Python:
 ```
 python gamesync.py
 ```
-Setup Configuration: If the config.ini file does not exist, the script will prompt you to provide the required configuration options.
+Setup Configuration: 
+
+If the config.ini file does not exist, the script will prompt you to provide the required configuration options.
 
 
 Notes
@@ -46,4 +48,5 @@ The script will prompt you to select from multiple executables if there are seve
 Troubleshooting
 
 Errors Fetching Data: Check your API key and ensure it's correct.
+
 File Paths: Make sure all file paths are correct and accessible.
