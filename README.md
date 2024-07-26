@@ -1,5 +1,5 @@
 
-This script automates the process of updating Steam shortcuts and downloading images from SteamGridDB.
+This script automates the process of updating non-Steam shortcuts and downloading images from SteamGridDB.
 Prerequisites
 
 Before running the script, ensure you have the following Python libraries installed:
