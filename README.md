@@ -10,10 +10,6 @@ bash
 
 pip install requests vdf
 
-README
-
-Here's a sample README file to help users set up and use your script:
-SteamGridDB Automation
 
 This script automates the process of updating Steam shortcuts and downloading images from SteamGridDB.
 Prerequisites
