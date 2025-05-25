@@ -16,7 +16,7 @@ Configuration
 The script requires a configuration file named config.ini. If the file does not exist, it will prompt you to create one.
 Configuration Options
 
-    steam_user_data_path - Path to the Steam user data directory.
+    steam_user_data_config_path - Path to the Steam user data directory.
     game_installation_paths - Comma-separated list of paths to game installation directories.
     steamgriddb_api_key - API key for SteamGridDB.
 
@@ -24,7 +24,7 @@ Example config.ini file:
 
 ```
 [DEFAULT]
-steam_user_data_path = C:/Program Files (x86)/Steam/userdata/123456789
+steam_user_data_path = C:/Program Files (x86)/Steam/userdata/123456789/config
 game_installation_paths = D:/Games, E:/MoreGames
 steamgriddb_api_key = your_api_key_here
 ```
